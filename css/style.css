@@ -1,0 +1,15 @@
+#bg-div{
+    height: 500px;
+    width: 600px;
+    border: 2px solid orangered;
+    background-image: url('../images/developer.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#text{
+    border: 2px solid red;
+    padding: 20px;
+    margin: 50px 40px;
+    width: 500px;
+    display: inline-block;
+}
